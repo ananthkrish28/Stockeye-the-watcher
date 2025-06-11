@@ -1,0 +1,13 @@
+__pycache__/
+.vscode/
+myenv/
+.DS_Store
+*.pyc
+*.db
+*.save
+*.h5
+*.keras
+*.xlsx
+*.csv
+refresh in cache.txt
+users

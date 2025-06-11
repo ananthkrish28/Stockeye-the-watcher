@@ -1,0 +1,15 @@
+streamlit
+pandas
+requests
+numpy
+seaborn
+joblib
+feedparser
+sqlite3  # Note: part of Python standard library, no need to install
+beautifulsoup4
+plotly
+Pillow
+scikit-learn
+statsmodels
+tensorflow
+streamlit-autorefresh

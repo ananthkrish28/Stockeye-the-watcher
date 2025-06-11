@@ -1,0 +1,11 @@
+credentials:
+  usernames:
+    Admin:
+      email: "admin@example.com"
+      name: "Admin"
+      password: "hashed_password"
+
+cookie:
+  name: "stockeye_cookie"
+  key: "some_random_secret_key"
+  expiry_days: 30
