@@ -10,6 +10,11 @@
 
 > 🚀 Built using Python, Streamlit, Keras, Scikit-learn, Plotly, and TradingView
 
+> ## 🔗 Live Demo
+
+[🚀 Click here to run the app on Streamlit](https://stockeye-the-watcher.streamlit.app/)
+
+
 ---
 
 ## 🌟 Features
